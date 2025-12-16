@@ -1,6 +1,4 @@
 __pycache__/
-*.pt
-*.pth
 .env
 .DS_Store
 .streamlit/
